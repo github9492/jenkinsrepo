@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16" started-at="2023-03-10T15:19:15 IST" finished-at="2023-03-10T15:19:15 IST">
+  <suite name="Suite" duration-ms="63" started-at="2023-03-12T23:50:01 IST" finished-at="2023-03-12T23:50:01 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16" started-at="2023-03-10T15:19:15 IST" finished-at="2023-03-10T15:19:15 IST">
+    <test name="Test" duration-ms="63" started-at="2023-03-12T23:50:01 IST" finished-at="2023-03-12T23:50:01 IST">
+      <class name="jenkins.jenkinsTest">
+        <test-method status="PASS" signature="abc()[pri:0, instance:jenkins.jenkinsTest@1f554b06]" name="abc" duration-ms="13" started-at="2023-03-12T23:50:01 IST" finished-at="2023-03-12T23:50:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- jenkins.jenkinsTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
